@@ -53,13 +53,13 @@ https://github.com/Divyakojjolla/TO-DO-LIST.git
 https://divyakojjolla.github.io/TO-DO-LIST/
 ---
 
-## 🙌 Acknowledgment
+### 🙌 Acknowledgment
 
 This project was built as part of my frontend development learning journey to apply real-world concepts and improve practical skills.
 
 ---
 
-## 📬 Connect With Me
+### 📬 Connect With Me
 
 - 🔗 LinkedIn:https://www.linkedin.com/in/divyakojjolla914 
 - 💻 GitHub: https://github.com/Divyakojjolla
