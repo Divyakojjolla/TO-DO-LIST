@@ -47,4 +47,19 @@ The primary goal of this project is to develop a practical application while str
 ### Run Locally
 
 1. Clone the repository:
-    https://github.com/Divyakojjolla/TO-DO-LIST.git
+https://github.com/Divyakojjolla/TO-DO-LIST.git
+
+2.🔗 Live Demo
+https://divyakojjolla.github.io/TO-DO-LIST/
+---
+
+## 🙌 Acknowledgment
+
+This project was built as part of my frontend development learning journey to apply real-world concepts and improve practical skills.
+
+---
+
+## 📬 Connect With Me
+
+- 🔗 LinkedIn:https://www.linkedin.com/in/divyakojjolla914 
+- 💻 GitHub: https://github.com/Divyakojjolla
