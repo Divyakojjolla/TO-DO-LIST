@@ -49,9 +49,8 @@ The primary goal of this project is to develop a practical application while str
 1. Clone the repository:
 https://github.com/Divyakojjolla/TO-DO-LIST.git
 
-##2.🔗 Live Demo
+2.🔗 Live Demo
 https://divyakojjolla.github.io/TO-DO-LIST/
----
 
 ### 🙌 Acknowledgment
 
